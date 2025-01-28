@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!LAWERS html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Юридические услуги | [Ваше имя]</title>
+  <title>Юридические услуги | Юрист Власенко</title>
   <style>
     body {
       font-family: 'Georgia', serif;
@@ -42,7 +42,7 @@
       transform: scale(1.05);
     }
     .hero-section {
-      background: url('https://via.placeholder.com/1500x800') no-repeat center center/cover;
+      background: url('https://cdn.culture.ru/images/e3cd35df-7349-5dc5-a34d-bfd95566395a') no-repeat center center/cover;
       padding: 100px 20px;
       border-radius: 10px;
       margin-bottom: 40px;
@@ -205,10 +205,10 @@
   </style>
 </head>
 <body>
-  <div class="hero-section animated">
+  <div class="https://www.fdphoto.biz/wp-content/uploads/2014/08/12_2013FD24_424.jpg">
     <h1>Юридические услуги премиум-класса</h1>
     <p>Ваш надежный партнер в решении сложных юридических вопросов. Опыт, профессионализм, результат.</p>
-    <a href="tel:+71234567890" class="cta-button animated">Позвонить сейчас</a>
+    <a href="tel:+79281402192" class="cta-button animated">Позвонить сейчас</a>
     <a href="#contact" class="cta-button animated">Заказать консультацию</a>
   </div>
 
@@ -235,7 +235,7 @@
     <h2>Отзывы наших клиентов</h2>
     <div class="testimonial">
       <p>"Огромное спасибо за помощь в решении моего дела! Все было сделано быстро и профессионально."</p>
-      <p><strong>— Иван Иванов</strong></p>
+      <p><strong>— Владислав Опятов</strong></p>
     </div>
     <div class="testimonial">
       <p>"Лучший юрист, с которым я работал. Рекомендую всем!"</p>
